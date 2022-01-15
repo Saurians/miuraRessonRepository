@@ -1,6 +1,6 @@
 // This file is for practice.
 
-var number: String = 34
+var number: Int = 34
 let mytext: String = "Good Luck!"
 
 print("Lesson\(number):\(mytext)")
